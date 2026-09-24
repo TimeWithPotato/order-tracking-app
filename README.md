@@ -1,4 +1,4 @@
-# Vecosoft Assessment — Task 1: Order Tracking Screen
+# Vecosoft Assessment - Task 1: Order Tracking Screen
 
 This project is submitted as part of the Vecosoft assessment (Task 1: Order Tracking Screen). It is a modern, professional, and fully responsive order tracking application built with React, Vite, and Tailwind CSS.
 
