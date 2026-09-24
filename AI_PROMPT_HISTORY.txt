@@ -1,0 +1,4 @@
+How to install Lucide icons in a react project?
+How do I handle state switching for different order scenarios in a React application?
+Update the layout so it is fully responsive across mobile, tablet, and laptop viewports.
+Write a professional README.md file for an e-commerce order tracking assessment project built with React and Tailwind CSS.
