@@ -1,4 +1,3 @@
-import React from 'react';
 import { CheckCircle2, Clock, AlertTriangle, PackageX, HelpCircle } from 'lucide-react';
 
 export default function StatusTimeline({ order, onOpenSupport }) {

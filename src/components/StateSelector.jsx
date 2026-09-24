@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function StateSelector({ currentState, setCurrentState }) {
   const states = [
     { id: 'active', label: '1. Normal / Active' },

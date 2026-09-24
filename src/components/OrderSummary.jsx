@@ -1,6 +1,3 @@
-import React from 'react';
-import { Package } from 'lucide-react';
-
 export default function OrderSummary({ order }) {
   return (
     <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-200 mb-4">

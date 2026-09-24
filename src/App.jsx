@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Header from './components/Header';
 import StateSelector from './components/StateSelector';
 import OrderSummary from './components/OrderSummary';
