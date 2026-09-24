@@ -1,16 +1,23 @@
-# React + Vite
+# Vecosoft Assessment — Task 1: Order Tracking Screen
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is submitted as part of the Vecosoft assessment (Task 1: Order Tracking Screen). It is a modern, professional, and fully responsive order tracking application built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features & UI States Handled
+The application robustly handles all three required simulation scenarios alongside standard tracking:
+1. **Normal / Active Order**: Clean timeline highlighting active milestones, estimated delivery times, and carrier details.
+2. **Delayed Order**: Clearly communicates transit disruptions with helpful warning indicators and support pathways.
+3. **Delivered but Not Received**: Addresses dispute/missing package situations with immediate escalation actions.
+4. **Tracking Not Available Yet**: Clean fallback state preventing broken-looking UIs when order data is still pending dispatch.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+* **Framework**: React.js (with Vite)
+* **Styling**: Tailwind CSS
+* **Icons**: Lucide React
+* **Architecture**: Modular multi-file component structure
 
-## React Compiler
+## Local Setup & Run Instructions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   npm install
